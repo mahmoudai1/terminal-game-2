@@ -1,7 +1,7 @@
 # C++ Terminal Game 2
 **The Game contains:**
 
-Scrolling | Game Statistics 🧮 | Timer ⏱ | Health Bar 📶 | Score 🎯
+Scrolling ⏪ | Game Statistics 🧮 | Timer ⏱ | Health Bar 📶 | Score 🎯
 
 Hero 🦸‍♂️ | Animations 🏄‍♀️🏄‍♀️ | Enemies 😈 | Multi-Rifle 🔫🔫 | Multi-Bullets ☵☵ | Blocks 🗿 | Planes 🛩
 
